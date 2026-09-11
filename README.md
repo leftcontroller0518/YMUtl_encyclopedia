@@ -30,7 +30,7 @@
 ---
 
 ## 内容の書き方
-書き方については[こちらをご参考までにご覧ください。](https://github.com/leftcontroller0518/YMUtl_encyclopedia/blob/main/README.md?plain=1)。
+書き方については[こちらをご参考までにご覧ください。](https://github.com/leftcontroller0518/YMUtl_encyclopedia/blob/main/README.md?plain=1)
 
 例外については[こちらをご参照ください。](#例外)
 
