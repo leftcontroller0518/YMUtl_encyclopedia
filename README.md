@@ -18,7 +18,7 @@
    - 本リポジトリをフォークし、作業用ブランチを作成してください。
 
 2. **記事の作成・編集**
-   - 対象ディレクトリ内にて、Markdown形式（`.md`）を用いて記事の追加または修正を行ってください。
+   - ``encyclopedia/``フォルダ内にて、Markdown形式（`.md`）を用いて記事の追加または修正を行ってください。
    - 正確かつ中立的な情報の記載をお願いいたします。
 
 3. **プルリクエストの作成**
@@ -30,7 +30,7 @@
 ---
 
 ## 内容の書き方
-書き方については[こちらをご参照ください](https://github.com/leftcontroller0518/YMUtl_encyclopedia/blob/main/README.md?plain=1)。
+書き方については[こちらをご参考までにご覧ください。](https://github.com/leftcontroller0518/YMUtl_encyclopedia/blob/main/README.md?plain=1)。
 
 例外については[こちらをご参照ください。](#例外)
 
