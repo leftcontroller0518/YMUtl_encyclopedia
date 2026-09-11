@@ -1,4 +1,4 @@
-# YMUtl_encyclopedia
+# YMUtl open wiki project
 本リポジトリでは、「YMUtl百科事典」における記事データの追加および更新を、プルリクエスト（Pull Request）形式にて広く募集しております。
 
 対象となる主題は、以下の動画編集ソフトおよび関連エコシステムに関する情報です。
